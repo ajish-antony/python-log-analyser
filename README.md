@@ -65,7 +65,7 @@ def parser(s):
                 print(err)
 ```
 
-> cat loganalyser.py
+> $ cat loganalyser.py
 
 ```sh
 import logparser
