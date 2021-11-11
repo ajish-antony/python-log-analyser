@@ -116,7 +116,11 @@ sudo yum install git -y
 sudo yum install python3
 git clone https://github.com/ajish-antony/python-log-analyser.git
 cd python-log-analyser
-> Update the required access log in the log file. Further, execute the script
+```
+
+> A sample access log file has been provided here. Update the required access log in the log file. Further, execute the script
+
+```sh
 python3 loganalyser.py
 ```
 
