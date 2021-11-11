@@ -11,7 +11,7 @@ Here is a python script that will analyze and sort the access logs. Its been a c
 ## Features
 
 - Log Analyser and easy to manage
-- simple syntax and Python code is easy to understand.
+- Simple syntax and Python code is easy to understand.
 
 ## Modules Used
 
