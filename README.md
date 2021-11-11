@@ -1,4 +1,4 @@
-# Python Script to Analyse the Logfile
+# Python Script to Analyse the LogFile
 ## (Python Script -  How many times the status has occurred in accordance with day from access log)
 
 
