@@ -6,7 +6,7 @@
 
 ## Description
 
-Here is a python script that will analyze and sort the access logs. Its been a common scenario in recent days to sort and fetch the details as per the requirements from the access logs. As I have been requested to sort the logs based on the status and its count which refers to how many times the status has occurred. Also, these details will be displed in accordance with each day
+Here is a python script that will analyze and sort the access logs. Its been a common scenario in recent days to sort and fetch the details as per the requirements from the access logs. As I have been requested to sort the logs based on the status and its count which refers to how many times the status has occurred. Also, these details will be displed in accordance with each day.
 
 ## Features
 
